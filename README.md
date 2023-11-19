@@ -1,4 +1,4 @@
-# Pycharm_Programs
+# Python_Programming_Language_With_Ritik
  Python Programming language with Ritik. - and I will also provide Notes. 😍
 <hr><hr>
 <h3 align="left">Connect with me:</h3>
@@ -17,7 +17,7 @@
 <a href="https://sites.google.com/view/codingwill/home" target="blank"><img align="center" src="https://www.svgrepo.com/show/249896/browser-www.svg" alt="https://sites.google.com/view/codingwill/home" height="30" width="40" /></a>
 </p>
 <hr><hr>
-<h2>&#8649 My DSA Journey with C++ Programming</h2>
+<h2>&#8649 My Python Programming Language with Notes. 🗒 </h2>
 <table border="5px" style="border-collapse: collapse;">
   <tr>
     <td>
