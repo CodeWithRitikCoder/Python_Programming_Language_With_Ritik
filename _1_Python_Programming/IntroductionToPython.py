@@ -1,5 +1,10 @@
 """
-Notes:- 
+Notes:-
+    =>What is Python ?
+        -> Python is a dynamically typed, General Purpose Programming Language that supports an object-oriented programming approach as well as a functional programming approach.
+        -> Python is also an interpreted and high-level programming language.
+        -> It was created by Guido Van Rossum in 1989.
+
     => Introduction To Python.
         -> Python is a widely used general-purpose, high level programming language. 
         It was created by Guido van Rossum in 1991 and further developed by the Python Software Foundation. 
@@ -28,6 +33,10 @@ Notes:-
             => Python For MacOS:
                 -> macOS: Generally, Python 2.7 comes bundled with macOS. 
                 You’ll have to manually install Python 3 from http://python.org/.
+
+            => Installing Packages:
+                -> To install packages in Python, we use the pip command.
+                -> e.g. pip install "Package Name"
                 
         => 2) Writing our first program:
             -> Just type in the following code after you start the interpreter.
@@ -96,8 +105,6 @@ Notes:-
                 cryptography, GUI and many more.
                 * Besides the standard library, there are various other high-quality libraries such as the Python Imaging
                 Library which is an amazingly simple image manipulation library.
-
-        -> ***** Python vs JAVA *****
         
 """
 

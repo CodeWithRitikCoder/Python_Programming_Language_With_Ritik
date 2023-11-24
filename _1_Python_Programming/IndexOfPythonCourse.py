@@ -10,7 +10,7 @@ ________________________________________________________________________________
 |   5. Use Python as a Calculater.                                                                              |
 |   6. Comments and Escape Sequences in Python.                                                                 |
 |   7. Variables, Data Types, Typecasting and Variable type Classes in Python.                                  |
-|   8. 
+|   8. Taking input From the User in Python.
 |                                                                                                               |
 |***************************************************************************************************************|
 
