@@ -26,9 +26,15 @@ ________________________________________________________________________________
 |                                                                                                               |
 |       => Assignment- 5 of Python.                                                                             |
 |                                                                                                               |
-|   13-> String Slicing and it's functions in Python.                                                          |
+|   13-> String Slicing and it's functions in Python.                                                           |
 |                                                                                                               |
+|       => Assignment- 6 of Python.                                                                             |
 |                                                                                                               |
+|   14-> List and List Functions in Python.                                                                     |
+|   15-> Tuple and Tuple Functions in Python.                                                                   |
+|   15-> Swapping two variables in Python.                                                                      |
+|                                                                                                               |
+|       => Assignment- 7 of Python.                                                                             |
 |                                                                                                               |
 |                                                                                                               |
 |***************************************************************************************************************|

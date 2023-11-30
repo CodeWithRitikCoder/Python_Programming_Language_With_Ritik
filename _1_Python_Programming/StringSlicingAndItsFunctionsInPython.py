@@ -104,7 +104,7 @@ print(type(myString))
 
 print(myString.isalpha())  # => It means if there is a white space in your string then this will return False
                             # and if there is no space in your string then this will return True.
-print(myString.isalnum()) # => It means if your string contains numberic value then this will return True
+print(myString.isalnum()) # => It means if your string contains numeric value then this will return True
                             # other wise Flase.
 
 print("This is the length of the string : ", len(myString))
