@@ -26,6 +26,8 @@ ________________________________________________________________________________
 |                                                                                                               |
 |       => Assignment- 5 of Python.                                                                             |
 |                                                                                                               |
+|   13-> String Slicing and it's functions in Python.                                                          |
+|                                                                                                               |
 |                                                                                                               |
 |                                                                                                               |
 |                                                                                                               |
