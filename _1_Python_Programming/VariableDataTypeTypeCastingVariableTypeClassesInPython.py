@@ -1,16 +1,23 @@
 """
 Notes:-
     => Python Variables
-        -> Variables are containers that store information that can be manipulated and referenced later by the programmer within the code.
-        -> In python, the programmer does not need to declare the variable type explicitly, we just need to assign the value to the variable.
+        -> Variables are containers that store information that can be manipulated and referenced later by the
+            programmer within the code.
+        -> In python, the programmer does not need to declare the variable type explicitly, we just need to assign the
+            value to the variable.
 
-    => It is always advisable to keep variable names descriptive and to follow a set of conventions while creating variables:
-        -> Variable name can only contain alpha-numeric characters and underscores (A-z, 0-9, and _ )
-        -> Variable name must start with a letter or the underscore character.
-        -> Variables are case-sensitive.
-        -> Variable name cannot start with a number.
+        => It is always advisable to keep variable names descriptive and to follow a set of conventions while creating
+            variables:
+            -> Variable name can only contain alpha-numeric characters and underscores (A-z, 0-9, and _ )
+            -> Variable name must start with a letter or the underscore character.
+            -> Variables are case-sensitive.
+            -> Variable name cannot start with a number.
 
-    =>
+    => Data Types
+
+    => TypeCasting.
+
+    => Variable Type Classes.
 
 """
 a = 20  # Here this is our Int variable.
@@ -51,3 +58,11 @@ print("The sum of var5 + var6 is : ", (int(var5) + int(var6)))
 print(10 * "Hello World\n")  # This will print Hello World 10 times.
 
 print(10 * str((int(var5) + int(var6))))
+
+
+var7= "55"
+print(type(var7)) # This will give you the type of variable var7.
+
+var7= 34
+print(type(var7)) # This will give you the type of variable var7.
+
