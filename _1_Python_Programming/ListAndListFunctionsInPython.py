@@ -40,6 +40,7 @@
 print("Practice on List")
 list1 = [7, 9, "Ritik"]
 print(list1)
+print(type(list1))
 
 numbers = [2, 4, 8, 29, 23]
 print(numbers[0])
@@ -57,7 +58,7 @@ print(numbers[:])
 print(numbers[1:3:2])
 print(numbers[::-1], "\n")
 
-# Practice on List functions.
+# Practice on List functions. and in most cases all the functions of list will change the original list.
 print("Practice on List functions")
 list2 = [1, 8, 7, 2, 21, 15]
 print("Its my list2 : ", list2)

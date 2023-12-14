@@ -27,6 +27,7 @@ print("Practice on Tuple")
 
 tp1 = (1, 7, 9, 1, 3)
 print("This is my Tuple : ", tp1)
+print(type(tp1))
 
 # tp2 = [1] = 9 # => If you will tru to change the value of tuple this will throw an error.
 
