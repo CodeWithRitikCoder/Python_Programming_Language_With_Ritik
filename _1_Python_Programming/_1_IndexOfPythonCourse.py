@@ -10,30 +10,31 @@ ________________________________________________________________________________
 |   5-> Use Python as a Calculater.                                                                             |
 |   6-> Comments and Escape Sequences in Python. -                                                              |
 |   7-> Variables, Data Types, Typecasting and Variable type Classes in Python.                                 |
-|   8-> Taking input From the User in Python.                                                                   |
-|   9-> print() function in Python.                                                                             |
-|   10-> Escape Sequences characters in Python.                                                                 |
+|   8-> Number System conversion in Python.                                                                     |
+|   9-> Taking input From the User in Python.                                                                   |
+|   10-> print() function in Python.                                                                            |
+|   11-> Escape Sequences characters in Python.                                                                 |
 |                                                                                                               |
 |       => Assignment- 1 of Python.                                                                             |
 |       => Assignment- 2 of Python.                                                                             |
 |       => Assignment- 3 of Python.                                                                             |
 |       => Assignment- 4 of Python.                                                                             |
 |                                                                                                               |
-|   11-> Type function, variable id, sep='' keyword arguments and end='' keyword argument in Python.            |
-|   12-> Modules-Package-Library, import, keywords and help() in Python.                                        |
-|   13-> Access one Python file from another Python file.                                                       |
+|   12-> Type function, variable id, sep='' keyword arguments and end='' keyword argument in Python.            |
+|   13-> Modules-Package-Library, import, keywords and help() in Python.                                        |
+|   14-> Access one Python file from another Python file.                                                       |
 |       -> I will perform this operation like:- I will access (A) Python file from (B) Python file.             |
 |           and perform some operations using this accessing.                                                   |
 |                                                                                                               |
 |       => Assignment- 5 of Python.                                                                             |
 |                                                                                                               |
-|   14-> String Slicing and it's functions in Python.                                                           |
+|   15-> String Slicing and it's functions in Python.                                                           |
 |                                                                                                               |
 |       => Assignment- 6 of Python.                                                                             |
 |                                                                                                               |
-|   15-> List and List Functions in Python.                                                                     |
-|   16-> Tuple and Tuple Functions in Python.                                                                   |
-|   17-> Swapping two variables in Python.                                                                      |
+|   16-> List and List Functions in Python.                                                                     |
+|   17-> Tuple and Tuple Functions in Python.                                                                   |
+|   18-> Swapping two variables in Python.                                                                      |
 |                                                                                                               |
 |       => Assignment- 7 of Python.                                                                             |
 |                                                                                                               |

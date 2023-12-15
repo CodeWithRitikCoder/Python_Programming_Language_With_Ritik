@@ -16,6 +16,57 @@ Notes:-
     => Data Types
 
     => TypeCasting.
+        -> Type conversion is a way to convert on data type into another data type.
+
+        => Pre-defined functions in python.
+            -> int()
+            -> float()
+            -> complex()
+            -> bool()
+            -> str()
+
+        like as:-
+                    -> Type conversion of int function. int function can convert all these types of value.
+                        * int("45.6")
+                        * int(3.32)
+                        * int(True)
+                        * int(False)
+
+                    -> Type conversion of float function. float function can convert all these types of value.
+                        * float("34.23")
+                        * float("231")
+                        * float(345)
+                        * float(True)
+                        * float(False)
+
+                    -> Type conversion of complex function. complex function can convert all these types of value.
+                        * complex("4.2+4j")
+                        * complex(45)
+                        * complex(45.3)
+                        * complex(True)
+                        * complex(False)
+                        * complex("4.5")
+                        * complex("34")
+
+                    -> Type conversion of bool function. bool function can convert all these types of value.
+                        * bool("True")
+                        * bool("False")
+                        * bool("Ritik")
+                        * bool("2345")
+                        * bool("3.4")
+                        * bool(40)
+                        * bool(-12)
+                        * bool(4.3)
+                        * bool("") -> Empty string no space can't convert.
+                        * bool(" ") -> Every non-Empty string is True with white space.
+
+                    -> Type conversion of str function. str function can convert all these types of value.
+                        * str(45)
+                        * str(45.12)
+                        * str(True)
+                        * str(False)
+                        * str(45+6j)
+                        * str("Ritik")
 
     => Variable Type Classes.
 

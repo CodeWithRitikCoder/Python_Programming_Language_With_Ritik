@@ -19,6 +19,13 @@ Library : - Library is a collection of packages.
 # Import in Python.
 """
 When ever we want to use special functionality of Python then we can import that functionality.
+
+like as:-
+    # import A  # => We can also import A.py file like this and this will import every thing of this file at a time.
+    from A import a  # => This will import only variable a of this A.py file.
+    from A import b as var  # => This will import only variable b of this A.py file but we can use it as name var.
+    from A import *  # => This will import whole things from the Python Module file.
+    
 """
 
 # keywords in Python.
