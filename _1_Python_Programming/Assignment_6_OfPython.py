@@ -1,21 +1,17 @@
-# Assignment- 5 of this Python Course.
+# Assignment- 6 of this Python Course.
 
 """
 
-***** Questions On – String and its functions *****
+***** Questions On – type conversion *****
 
     Questions:
 
-        1-> Write a python script to display a user entered name followed by Good Afternoon using input() function.
-        2-> Write a python script to fill in a letter template given below with name and data.
-            letter= '''Dear <|NAME|>
-                            You are Selected!
-                                <|DATE|>'''
-        3-> Write a python script to delete double spaces in a string.
-        4-> Replace the double spaces from Problem-3 with single spaces.
-        5-> Write a python script to format the following string words in letter form as shown in question-2 using
-            escape sequence characters.
-            "Dear Ritik, You are selected for the Software Engineering Role at MicroSoft! Thanks."
+        1-> Write a python script to convert a number into str type.
+        2-> Write a python script to print Unicode of character ‘m’.
+        3-> Write a python script to print character representation of a given Unicode 100.
+        4-> Write a python script to convert a str type data into an int type. Also describe
+            when a str type value in not possible to convert into an int type.
+        5-> How to convert an integer value into a bool value.
 
     Answers:
 
@@ -26,31 +22,32 @@
 
 print("Assignment- 6 of this Python Course.\n")
 
+
 # Answer-1:
 print("Solution of question-1")
-# name = input("Enter your name here : ")
-# print("Good Afternoon : ", name)
+a = 12
+print("This is the conversion of int type a= %d into Str type : %s\n"%(a, str(a)))
+
 
 # Answer-2:
 print("\nSolution of question-2")
-letter = '''Dear Ritik
-    You are selected for the 
-    Software Engineering Role at MicroSoft!
-        30/11/2023'''
-print(letter,"\n")
+print("The unicode of 'm' is : ", ord('m'))
+
 
 # Answer-3:
-print("Solution of question-3")
-myString1 = "My  Name  Is  Ritik"
-print(myString1)
-print(myString1.replace("  ", ""), "\n")
+print("\nSolution of question-3")
+print("The character of 100 unicode is : ", chr(100))
+
 
 # Answer-4:
-print("Solution of question-4")
-myString1 = "My  Name  Is  Ritik"
-print(myString1)
-print(myString1.replace("  ", " "), "\n")
+print("\nSolution of question-4")
+a = "143"
+print("The conversion of str value to int type is : ", int(a))
+a = "Ritik" # This string will never convert into int type because of it's a real string value so it can't change.
+
 
 # Answer-5:
-print("Solution of question-5")
-print("Dear Ritik, \n\tYou are selected for the \n\tSoftware Engineering Role at MicroSoft! \n\t\tThanks.")
+print("\nSolution of question-5")
+print("This is the conversion of int type value into bool type value : ", bool(234))
+print("This is the conversion of int type value into bool type value : ", bool(0))
+print("This is the conversion of int type value into bool type value : ", bool(12345))

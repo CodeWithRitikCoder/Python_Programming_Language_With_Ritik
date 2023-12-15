@@ -6,7 +6,7 @@
 
     Questions:
 
-        1-> Write a python script to print Learning Computer Education on the screen.
+        1-> Write a python script to print "Learning Computer Education" on the screen.
         2-> Write a python script to print Learning Computer Education on the first line and Carrier Planning Center
             on the second line.
         3-> Write a python script to print “Computer” on the screen. (Remember to print double quotes)

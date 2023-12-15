@@ -27,16 +27,23 @@ ________________________________________________________________________________
 |           and perform some operations using this accessing.                                                   |
 |                                                                                                               |
 |       => Assignment- 5 of Python.                                                                             |
+|       => Assignment- 6 of Python.                                                                             |
+|       => Assignment- 7 of Python.  -> About to come                                                           |
+|       => Assignment- 8 of Python.  -> About to come                                                           |
+|       => Assignment- 9 of Python.  -> About to come                                                           |
+|       => Assignment- 10 of Python. -> About to come                                                           |
 |                                                                                                               |
 |   15-> String Slicing and it's functions in Python.                                                           |
 |                                                                                                               |
-|       => Assignment- 6 of Python.                                                                             |
+|       => Assignment- 11 of Python.                                                                            |
 |                                                                                                               |
 |   16-> List and List Functions in Python.                                                                     |
 |   17-> Tuple and Tuple Functions in Python.                                                                   |
 |   18-> Swapping two variables in Python.                                                                      |
 |                                                                                                               |
-|       => Assignment- 7 of Python.                                                                             |
+|       => Assignment- 12 of Python.                                                                            |
+|                                                                                                               |
+|   19-> Dictionary and It's function in python.                                                                |
 |                                                                                                               |
 |                                                                                                               |
 |***************************************************************************************************************|

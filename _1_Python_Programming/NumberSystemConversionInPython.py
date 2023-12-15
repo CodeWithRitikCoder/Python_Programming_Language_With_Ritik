@@ -84,5 +84,30 @@ Notes:-
     ********* If your want to know more about it your can refer my Binary Number system png note directory. *********
 
 """
+"""
+=> Functions to Number system conversion.
+bin(value) -> this will convert into Binary Number system.
+oct(value) -> this will convert into Octal Number system.
+hex(value) -> this will convert into Hexa-decimal Number system.
+  
+
+"""
 
 print("Number system conversion in Python.")
+
+x= 10
+print("The binary number of %d is : %s"%(x, bin(x)))
+print("The Octal number of %d is : %s"%(x, oct(x)))
+print("The Hexa-decimal number of %d is : %s\n"%(x, hex(x)))
+
+x= 0b1111
+print("The Octal number of %d is : %s"%(x, oct(x)))
+print("The Hexa-decimal number of %d is : %s\n"%(x, hex(x)))
+
+x=0o31
+print("The binary number of %d is : %s"%(x, bin(x)))
+print("The Hexa-decimal number of %d is : %s\n"%(x, hex(x)))
+
+x=0x19
+print("The binary number of %d is : %s"%(x, bin(x)))
+print("The Octal number of %d is : %s"%(x, oct(x)))
