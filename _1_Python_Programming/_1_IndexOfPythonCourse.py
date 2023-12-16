@@ -28,9 +28,9 @@ ________________________________________________________________________________
 |                                                                                                               |
 |       => Assignment- 5 of Python.                                                                             |
 |       => Assignment- 6 of Python.                                                                             |
-|       => Assignment- 7 of Python.  -> About to come                                                           |
-|       => Assignment- 8 of Python.  -> About to come                                                           |
-|       => Assignment- 9 of Python.  -> About to come                                                           |
+|       => Assignment- 7 of Python.                                                                             |
+|       => Assignment- 8 of Python.                                                                             |
+|       => Assignment- 9 of Python.                                                                             |
 |       => Assignment- 10 of Python. -> About to come                                                           |
 |                                                                                                               |
 |   15-> String Slicing and it's functions in Python.                                                           |

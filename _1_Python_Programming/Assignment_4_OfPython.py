@@ -70,4 +70,5 @@ day = 30
 month = 11
 year = 2023
 print("Solution of question-5")
-print("Today's date is : ", day, "/", month, "/", year)
+print("Today's date is : ", day, "\\", month, "\\", year, sep="")
+print("Today's date is %d\\%d\\%d" %(day, month, year))
