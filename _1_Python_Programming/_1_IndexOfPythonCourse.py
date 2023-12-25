@@ -7,7 +7,7 @@ ________________________________________________________________________________
 |   2-> History of Python.                                                                                      |
 |   3-> Installation of Python.                                                                                 |
 |   4-> First Program of Python.                                                                                |
-|   5-> Use Python as a Calculater.                                                                             |
+|   5-> Use Python as a Calculator.                                                                             |
 |   6-> Comments and Escape Sequences in Python. -                                                              |
 |   7-> Variables, Data Types, Typecasting and Variable type Classes in Python.                                 |
 |   8-> Number System conversion in Python.                                                                     |
@@ -43,7 +43,22 @@ ________________________________________________________________________________
 |                                                                                                               |
 |       => Assignment- 12 of Python.                                                                            |
 |                                                                                                               |
-|   19-> Dictionary and It's function in python.                                                                |
+|   19-> Operators in Python.                                                                                   |
+|                                                                                                               |
+|       => Assignment- 13 of Python.                                                                            |
+|       => Assignment- 14 of Python.                                                                            |
+|                                                                                                               |
+|   21-> Control statement in python.                                                                           |
+|       -> Decision control statement in python.                                                                |
+|                                                                                                               |
+|           => Assignment- 15 of Python.                                                                        |
+|           => Assignment- 16 of Python.                                                                        |
+|                                                                                                               |
+|       -> Match case control statement in python.                                                              |
+|       -> Iterative control statement in python.                                                               |
+|                                                                                                               |
+|                                                                                                               |
+|   21-> Dictionary and It's function in python.        -                                                        |
 |                                                                                                               |
 |                                                                                                               |
 |***************************************************************************************************************|
