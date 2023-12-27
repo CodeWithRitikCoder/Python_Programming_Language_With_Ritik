@@ -23,35 +23,35 @@ print("Assignment- 19 of this Python Course.\n")
 
 # Answer-1:
 print("Solution of question-1")
-i = 1
-while i <= 10:
-    print(i*2)
+i = 0
+while i < 10:
     i += 1
+    print(i * 2)
 
 # Answer-2:
 print("\nSolution of question-2")
 i = 10
 while i >= 1:
-    print(i*2)
-    i-=1
+    print(i * 2)
+    i -= 1
 
 # Answer-3:
 print("\nSolution of question-3")
-i = 1
-while i <= 10:
-    print(i*i)
+i = 0
+while i < 10:
     i += 1
+    print(i * i)
 
 # Answer-4:
 print("\nSolution of question-4")
 i = 1
 while i <= 10:
-    print(i*i*i)
+    print(i * i * i)
     i += 1
 
 # Answer-5:
 print("\nSolution of question-5")
-i = 1
-while i <= 10:
-    print(i*5)
+i = 0
+while i < 10:
     i += 1
+    print(i * 5)

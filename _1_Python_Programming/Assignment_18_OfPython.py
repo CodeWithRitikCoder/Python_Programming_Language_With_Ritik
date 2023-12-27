@@ -25,8 +25,8 @@ print("Assignment- 18 of this Python Course.\n")
 print("Solution of question-1")
 i = 0
 while i < 5:
-    print(i+1, "-> Computer")
     i += 1
+    print(i, "-> Computer")
 
 # Answer-2:
 print("\nSolution of question-2")
@@ -53,12 +53,12 @@ while i <= 10:
 print("\nSolution of question-4")
 i = 1
 while i <= 10:
-    print(i*2-1)
+    print(i * 2 - 1)
     i += 1
 
 # Answer-5:
 print("\nSolution of question-5")
 i = 10
 while i >= 1:
-    print(i*2-1)
-    i-=1
+    print(i * 2 - 1)
+    i -= 1
