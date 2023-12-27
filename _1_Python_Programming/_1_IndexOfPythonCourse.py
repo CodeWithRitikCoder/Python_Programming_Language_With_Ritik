@@ -55,10 +55,20 @@ ________________________________________________________________________________
 |           => Assignment- 16 of Python.                                                                        |
 |                                                                                                               |
 |       -> Match case control statement in python.                                                              |
+|                                                                                                               |
+|           => Assignment- 17 of Python.                                                                        |
+|           => Simple ATM Machine Project using match case in python.                                           |
+|                                                                                                               |
 |       -> Iterative control statement in python.                                                               |
+|           * While loop iterative control statement in python.                                                 |
 |                                                                                                               |
+|               => Assignment- 18 of Python.                                                                    |
+|               => Assignment- 19 of Python.                                                                    |
 |                                                                                                               |
-|   21-> Dictionary and It's function in python.        -                                                        |
+|           * For loop iterative control statement in python.                                                   |
+|                                                                                                               |
+|   21-> Dictionary and It's function in python.                                                                |
+|                                                                                                               |
 |                                                                                                               |
 |                                                                                                               |
 |***************************************************************************************************************|
