@@ -48,6 +48,8 @@ ________________________________________________________________________________
 |       => Assignment- 13 of Python.                                                                            |
 |       => Assignment- 14 of Python.                                                                            |
 |                                                                                                               |
+|   20-> Dictionary and It's function in python.         -                                                       |
+|                                                                                                               |
 |   21-> Control statement in python.                                                                           |
 |       -> Decision control statement in python.                                                                |
 |                                                                                                               |
@@ -72,10 +74,56 @@ ________________________________________________________________________________
 |               *-> TCS(Transfer control statement) with for loop iterative control statement in python.        |
 |               *-> for-else loop iterative control statement in python.                                        |
 |                                                                                                               |
-|   21-> Dictionary and It's function in python.                                                                |
+|   22-> Functions and DocString of Function in python.          -                                               |
 |                                                                                                               |
 |                                                                                                               |
 |                                                                                                               |
 |***************************************************************************************************************|
 
+"""
+# Assignment-1
+"""
+Question-1 => Code a Python script to print First 10 Natural Number using while loop iterative. 
+    -> 1 2 3 ... 10
+
+Question-2 => Code a Python script to print First 10 Whole Number using while loop iterative. 
+    -> 0 1 2 ... 9
+
+Question-3 => Code a Python script to print  First 10 Even Natural number using while loop iterative. 
+    -> 2 4 6 ... 20
+
+Question-4 => Code a Python script to print First 10 Odd Natural number using while loop iterative. 
+    -> 1 3 5 ... 19
+
+Question-5 => Code a Python script to print Square of First 10 Natural Number using while loop iterative. 
+    -> 1 4 9 16 25 .... 100
+
+Question-6 => Code a Python script to print Square of First 10 Even Natural Number using while loop iterative.
+    -> 4 16 36 ... 400
+
+Question-7 => Code a Python script to print Square of First 10 Odd Natural Number using while loop iterative.
+    -> 1 9 25 ... 361
+
+Question-8 => Code a Python script to print Cube of First 10 Natural Number using while loop iterative.
+    -> 1 8 27 ... 1000
+
+Question-9 => Code a Python script to print Cube of First 10 Even Natural Number using while loop iterative.
+    -> 8 64 ... 8000
+
+Question-10 => Code a Python script to print Cube of First 10 Odd Natural Number using while loop iterative.
+    -> 1 37 125 ... 6769
+
+Question-11 => Code a Python script to print The table of 2, 3 - 4, 5 using while loop iterative.
+    -> 2 4 6 ... 20
+    -> 4X1=4
+    -> 4X2=8
+    -> 4X3=12
+        ..
+        ..
+        ..
+    -> 4X10=40
+
+Question-12 => Code a Python script to print Sum of First 10 natural number using while loop iterative.
+    -> 1 2 3 4 5 6 7 8 9 10
+    -> 55
 """

@@ -7,7 +7,7 @@ Notes:-
             *-> if-elif-else
             *-> if-else ladder
             *-> Nested if-else
-            *-> Single line if-else
+            *-> Short Hand if-else Notation
 
     ==> Some points:-
         => Decision control:
