@@ -6,8 +6,8 @@ Notes:-
 
         -> Syntax of while loop in python.
 
-            : while expression:
-                    statement(s)
+            * while expression:
+                    code to be Execute.
 
 """
 # Practice on While loop iterative control statement.

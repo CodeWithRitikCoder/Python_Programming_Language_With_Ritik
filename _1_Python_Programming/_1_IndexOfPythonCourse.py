@@ -65,7 +65,12 @@ ________________________________________________________________________________
 |               => Assignment- 18 of Python.                                                                    |
 |               => Assignment- 19 of Python.                                                                    |
 |                                                                                                               |
+|               *-> TCS(Transfer control statement) with while loop iterative control statement in python.      |
+|               *-> While-else loop iterative control statement in python.                                      |
+|                                                                                                               |
 |           * For loop iterative control statement in python.                                                   |
+|               *-> TCS(Transfer control statement) with for loop iterative control statement in python.        |
+|               *-> for-else loop iterative control statement in python.                                        |
 |                                                                                                               |
 |   21-> Dictionary and It's function in python.                                                                |
 |                                                                                                               |
