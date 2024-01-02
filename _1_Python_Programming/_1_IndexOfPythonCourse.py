@@ -74,7 +74,8 @@ ________________________________________________________________________________
 |               *-> TCS(Transfer control statement) with for loop iterative control statement in python.        |
 |               *-> for-else loop iterative control statement in python.                                        |
 |                                                                                                               |
-|   22-> Functions and DocString of Function in python.          -                                               |
+|   22-> Functions and DocString of Function in python.                                                         |
+|   23-> Try Except Exception, Else Clause and Finally block in Python.                                         |
 |                                                                                                               |
 |                                                                                                               |
 |                                                                                                               |
