@@ -12,7 +12,7 @@ Notes:-
 
         -> Syntax of For loop in python.
 
-            : for var in iterable:
+            -> for var in iterable:
                     # statements
 
 """
@@ -123,7 +123,10 @@ for a, b in t:
 # Ninth Script to practice on For loop iterative control statement.
 """
 => Python for loop with range function
-    -> The Python range() function is used to generate a sequence of numbers. Depending on how many arguments the user is passing to the function, the user can decide where that series of numbers will begin and end as well as how big the difference will be between one number and the next.range() takes mainly three arguments. 
+    -> The Python range() function is used to generate a sequence of numbers. Depending on how many arguments 
+        the user is passing to the function, the user can decide where that series of numbers will begin and 
+        end as well as how big the difference will be between one number and the next.range() takes mainly three 
+        arguments. 
 
     -> start: integer starting from which the sequence of integers is to be returned
     -> stop: integer before which the sequence of integers is to be returned. 
@@ -141,5 +144,5 @@ for i in range(10):
 # performing sum of first 10 numbers
 sum = 0
 for i in range(1, 10):
-    sum = sum + i
+    sum += i
 print("\nSum of first 10 numbers :", sum)

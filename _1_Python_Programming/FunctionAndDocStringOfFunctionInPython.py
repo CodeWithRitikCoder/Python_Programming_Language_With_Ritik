@@ -13,7 +13,7 @@ Notes:-
     => Types of Functions in Python
         -> There are mainly two types of functions in Python.
             *-> Built-in library function: These are Standard functions in Python that are available to use.
-            *->  User-defined function: We can create our own functions based on our requirements.
+            *-> User-defined function: We can create our own functions based on our requirements.
 
     => Creating a Function in Python
         -> We can create a user-defined function in Python, using the def keyword. We can add any type of
@@ -53,4 +53,47 @@ Notes:-
     And a lot more things about function is outside of the command box.
 
 """
+
+
 # Practice on Functions and DocString of Function in python.
+
+# Practice on Function with nature Take nothing, Return nothing.
+def function1():
+    """This function is used to print sum of Two numbers only."""
+    a = int(input("Enter first number here: "))
+    b = int(input("Enter second number here: "))
+    print("The sum of a and b is: ", a + b)
+
+
+print("This is my function, with nature Take nothing, Return nothing.")
+function1()
+print(function1.__doc__)  # this line of code is used to print docString of function.
+
+
+# Practice on Function with nature Take something, Return nothing.
+def function2(a, b):
+    print("The sum of a and b is: ", a + b)
+
+
+print("\nThis is my function, with nature Take something, Return nothing.")
+function2(12, 13)
+
+
+# Practice on Function with nature Take nothing, Return something.
+def function3():
+    return 10 + 20
+
+
+print("\nThis is my function, with nature Take nothing, Return something.")
+k = function3()
+print("The sum of 10 and 20 is: ", k)
+
+
+# Practice on Function with nature Take something, Return something.
+def function3(a, b):
+    return a + b
+
+
+print("\nThis is my function, with nature Take something, Return something.")
+k = function3(10, 20)
+print("The sum of 10 and 20 is: ", k)
